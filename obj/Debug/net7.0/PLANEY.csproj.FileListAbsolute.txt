@@ -29,3 +29,5 @@
 /Users/joeeverett/Projects/PLANEY/PLANEY/obj/Debug/net7.0/PLANEY.pdb
 /Users/joeeverett/Projects/PLANEY/PLANEY/obj/Debug/net7.0/PLANEY.genruntimeconfig.cache
 /Users/joeeverett/Projects/PLANEY/PLANEY/obj/Debug/net7.0/ref/PLANEY.dll
+/Users/joeeverett/Projects/PLANEY/PLANEY/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/joeeverett/Projects/PLANEY/PLANEY/obj/Debug/net7.0/PLANEY.csproj.CopyComplete

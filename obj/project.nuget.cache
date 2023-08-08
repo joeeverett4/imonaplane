@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wEOtWeuKrfXR1ZM1yWxHqVkNNN1DcCuB7OxDhbK49iFUa4AiruTkIDaGoF9JcU0JLNz6SSXm//JBkBFRCYbNVw==",
+  "dgSpecHash": "qBKysJ8V0dFKzPxIUy0KZ/aVjpZLcWJY0Hq9dHdwgEHwYs99oTIl4kujbPYBGy00Vk10fquy5/UBYFMvvknwCg==",
   "success": true,
   "projectFilePath": "/Users/joeeverett/Projects/PLANEY/PLANEY/PLANEY.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/joeeverett/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
